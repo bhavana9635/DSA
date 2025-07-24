@@ -4,7 +4,7 @@ public class pra1
     //brute force tech
     public static boolean duplicates(int nums[])
     {
-        for(int i =0;i<nums.length-1;i++)
+        for(int i =0;i<nums.length;i++)
         {
             for(int j = i+1 ;j<nums.length;j++)
             {
@@ -16,7 +16,7 @@ public class pra1
         } return false;
     }
     public static void main(String args[]){
-        int nums[] = {1,1,2,3};
+        int nums[] = {1,2,3};
         System.out.println(duplicates(nums));
     }
 }
