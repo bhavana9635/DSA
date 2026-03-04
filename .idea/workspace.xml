@@ -5,23 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0361ccd-d638-43c2-a945-29fcd3ab6a45" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Apnajava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayCC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/buyandsellstock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fifth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/first.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fourth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/second.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seventh.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sixth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/third.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Balancedtree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bitwise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mergesort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarytrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mirror.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parctice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shortest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +35,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "bhavana9635"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/bhavana9635/DSA.git",
+    "accountId": "1bf87508-033a-47e3-bcb5-44b59d7b4a26"
+  }
+}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -53,24 +65,48 @@
   "keyToString": {
     "Application.Array.executor": "Run",
     "Application.ArrayCC.executor": "Run",
+    "Application.BST.executor": "Run",
+    "Application.Balancedtree.executor": "Run",
+    "Application.Bitwise.executor": "Run",
+    "Application.DaigonalSum.executor": "Run",
     "Application.Day1.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Mergesort.executor": "Run",
+    "Application.Strings1.executor": "Run",
     "Application.array1.executor": "Run",
+    "Application.basicAlgo.executor": "Run",
+    "Application.binarytrees.executor": "Run",
     "Application.buyandsellstock.executor": "Run",
+    "Application.count.executor": "Run",
+    "Application.eight.executor": "Run",
     "Application.fifth.executor": "Run",
     "Application.first.executor": "Run",
     "Application.fourth.executor": "Run",
+    "Application.insertion.executor": "Run",
     "Application.javabasic.executor": "Run",
+    "Application.mirror.executor": "Run",
+    "Application.ninth.executor": "Run",
+    "Application.oops.executor": "Run",
+    "Application.palindrome.executor": "Run",
+    "Application.parctice.executor": "Run",
+    "Application.pra1.executor": "Run",
+    "Application.quickSort.executor": "Run",
     "Application.second.executor": "Run",
+    "Application.selectionsorting.executor": "Run",
     "Application.seventh.executor": "Run",
     "Application.sixth.executor": "Run",
+    "Application.sortedmatrix.executor": "Run",
+    "Application.spiralmatirx.executor": "Run",
     "Application.third.executor": "Run",
+    "Application.twodarray.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/bhava/Documents/SEM-6/OOAD/OOAD_Project",
-    "onboarding.tips.debug.path": "C:/Users/bhava/Documents/Apna/Apnajava/src/Main.java"
+    "last_opened_file_path": "C:/Users/bhava/Documents/Apna/Apnajava/src",
+    "onboarding.tips.debug.path": "C:/Users/bhava/Documents/Apna/Apnajava/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   },
   "keyToStringList": {
     "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
@@ -78,6 +114,28 @@
     ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bhava\Documents\Apna\Apnajava\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bhava\Documents\Apna\Apnajava\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="oops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops" />
+      <module name="Apnajava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.oops" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
